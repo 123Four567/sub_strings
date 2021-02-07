@@ -1,0 +1,1 @@
+A method that takes a word and an array of valids substrings, that then gives out a hash with the number of substring.
